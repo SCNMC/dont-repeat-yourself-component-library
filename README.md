@@ -1,38 +1,20 @@
-# create-svelte
+# dont-repeat-yourself-component-library
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
 
-## Creating a project
+<img width="1443" alt="Schermafbeelding 2022-12-17 om 14 34 43" src="https://user-images.githubusercontent.com/90189750/208244553-31ed3b7f-49e0-4cae-b1da-b555157ad7fa.png">
 
-If you're seeing this, you've probably already done this step. Congrats!
+## Beschrijving
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
+Dit is de cmd website gemaakt doormiddel van een component library. De website is gebaseerd op de al eerder geboouwde cmd midterm website in Sprint 15 https://github.com/SCNMC/lose-your-head-the-client-case. 
+Dit is dus exact dezelfde website als in sprint 15 alleen zijn sommige onderdelen van deze website geimplementeerd door middel van components afkomstig uit de cmd midterm component linbrary. 
+De component library is gemaakt is samenwerking met andere stundenten die de opdrachtgever cmd hadden gekozen.
 
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+## Cmd midterm components library repository
+https://github.com/DaanKorver/cmd-midterm-components
 
-## Developing
+## Npm package 
+https://www.npmjs.com/package/cmd-midterm-components
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+## Kenmerken
+ - Sveltekit
+ - Cmd midterm components
