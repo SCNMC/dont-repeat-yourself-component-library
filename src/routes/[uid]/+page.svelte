@@ -12,7 +12,7 @@ import Link  from 'cmd-midterm-components/components/Link.svelte'
 	export let data;
 </script>
 
-<Header title="CMD Mid-term" isYellow
+<Header title="CMD Mid-term" isYellow 
 >
     <Link type="li" href="./beoogde-leerresultaten">Beoogde leerresultaten</Link>
     <Link type="li" href="./onderwijsleeromgeving">Onderwijsleeromgeving</Link>
